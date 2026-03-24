@@ -5,7 +5,7 @@ I frequently charge my wireless earbuds using the charging lockers placed in the
 When approaching the locker, two buttons are lit up in different colors, blue and red. The blue button is what users press when they want to place an item in the locker. It is placed above the retrieve button as it will be the first action that users will take when interacting with the locker. The lockers that are open are also lit up blue to let the user know that they are available. 
 
 <img width="319" height="697" src="assets/1.jpg" />
-Once the charge button is selected, the screen displays the lockers to choose from. Lockers that are currently in use are represented by a filled in box; lockers that are empty are represented by an empty box. Because the screen is blue, the empty boxes are also the same blue as the charge button, while this may be unintended, it helps strengthen the affordance that blue means open. 
+Once the charge button is selected, the screen displays the lockers to choose from. Lockers that are currently in use are represented by a filled in box; lockers that are empty are represented by an empty box. Because the screen is blue, the empty boxes are also the same blue as the charge button, while this may be unintended, it helps strengthen the **affordance** that blue means open. 
 
 <img width="319" height="697" src="assets/2.jpg" />
 
