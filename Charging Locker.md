@@ -9,8 +9,6 @@ Once I selected the charge button, the screen displayed the lockes I could choos
 
 <img width="319" height="697" src="assets/2.jpg" />
 
-Selecting an open locker will then prompt the user to input a 4 digit pin twice. Requiring the user to input their pin twice is a good safety measure to prevent the user from entering a different pin than they thought they were. This would lessen user frustration as it is less likely they are prevented to from retrieving their item.
-
 After I selected an open locker, the screen then prompted me to input a 4 digit pin twice. Requiring me to input my pin twice is a good safety measure that ensures that the locker is **error tolerant**. Something that is error tolerant is designed in such away to prevent user error as well as reconcile user error. 
 
 <img width="319" height="697" src="assets/3.jpg" />
