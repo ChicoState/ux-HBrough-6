@@ -4,3 +4,5 @@ Heath is a dame development student who enjoys playing warhammer 40k, Overwatch,
 
 
 [Journal-1](https://chicostate.github.io/ux-HBrough-6/Charging%20Locker.html)
+
+[Journal-2](https://chicostate.github.io/ux-HBrough-6/Blender.html)
